@@ -19,4 +19,4 @@ Projects completed:
 
 Technologies used: Python, pandas, numpy, Tensorflow
 
-Course website: [Deep Learning Nanodegree] (https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+Course website: [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
