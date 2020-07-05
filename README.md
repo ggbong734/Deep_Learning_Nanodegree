@@ -1,5 +1,5 @@
 # Udacity Deep Learning Nanodegree
-### *Completed in July 2017
+### *Completed in July 2017*
 
 This is a repository of projects completed for the Udacity Deep Learning Nanodegree program. 
 
